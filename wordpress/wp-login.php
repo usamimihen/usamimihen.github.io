@@ -9,9 +9,9 @@
 <base href="https://usamimihen.github.io/wordpress" />
 
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-	<title>登录 &lsaquo; hospital &#8212; WordPress</title>
-	<link rel='dns-prefetch' href='//s.w.org' />
-<link rel='stylesheet' href='https://usamimihen.github.io/wordpress/wp-admin/load-styles.php?c=1&amp;dir=ltr&amp;load%5B%5D=dashicons,buttons,forms,l10n,login&amp;ver=4.9.6' type='text/css' media='all' />
+	<title>登录 &lsaquo; abb &#8212; WordPress</title>
+	
+<link rel='stylesheet' href='https://usamimihen.github.io/wordpress/wp-admin/load-styles.php' type='text/css' media='all' />
 <meta name='robots' content='noindex,follow' />
 	<meta name="viewport" content="width=device-width" />
 		</head>
@@ -37,7 +37,7 @@
 </form>
 
 <p id="nav">
-	<a href="https://usamimihen.github.io/wordpress/wp-login.php?action=lostpassword">忘记密码？</a>
+	<a href="https://usamimihen.github.io/wordpress/wp-login.php">忘记密码？</a>
 </p>
 
 <script type="text/javascript">
@@ -54,7 +54,7 @@ wp_attempt_focus();
 if(typeof wpOnload=='function')wpOnload();
 </script>
 
-	<p id="backtoblog"><a href="https://usamimihen.github.io/wordpress/">&larr; 返回到hospital</a></p>
+	<p id="backtoblog"><a href="https://usamimihen.github.io/wordpress/">&larr; 返回到abb</a></p>
 		
 	</div>
 
